@@ -1,0 +1,53 @@
+# 🍲 RecipeKeeper – Flutter alapú receptkezelő alkalmazás
+
+A **RecipeKeeper** egy egyszerű, modern receptkezelő alkalmazás Flutterben, amely lehetővé teszi receptek hozzáadását, szerkesztését, törlését és kategorizálását. Tökéletes megoldás azoknak, akik szeretnék rendszerezni saját receptjeiket egy mobilalkalmazásban.
+
+## ✨ Fő funkciók
+
+- 📄 Receptek hozzáadása címmel, hozzávalókkal, leírással és képpel
+- 📂 Kategóriák szerinti szűrés (pl. reggeli, ebéd, vacsora, desszert)
+- 📝 Receptek szerkesztése és törlése
+- 🔍 Keresési funkció receptnév alapján
+- 💾 Helyi adatmentés (pl. SQLite vagy Hive)
+- 🌙 Világos és sötét téma támogatása
+
+## 🛠️ Technológiák
+
+- **Flutter** (UI és logika)
+- **Dart** (programozási nyelv)
+- **Hive vagy SQLite** (helyi adatbázis-kezelés)
+- **Provider / Riverpod / Bloc** (állapotkezelés – implementációtól függően)
+- **Image Picker** (képek hozzáadása a galériából vagy kamerából)
+
+## 📱 Képernyőképek *(hamarosan)*
+
+<!-- Itt elhelyezhetsz screenshotokat vagy gifeket, ha kész vannak -->
+
+## 🚀 Projekt futtatása
+
+1. Flutter környezet telepítése: [flutter.dev](https://flutter.dev/docs/get-started/install)
+2. Klónozd a repót:
+   ```bash
+   git clone https://github.com/felhasznalonev/recipekeeper.git
+   cd recipekeeper
+   ```
+3. Futtasd a szükséges csomagtelepítést:
+    ```bash
+    flutter pub get
+    ```
+4. Indítsd el a projektet:
+    ```bash
+    flutter run
+    ```
+
+## 🔧 Tervek a jövőben
+
+🔗 Felhőalapú szinkronizálás (Firebase)
+👨‍🍳 Közösségi receptmegosztás
+📅 Heti menüterv készítés
+🤝 Közreműködés
+
+## Szívesen fogadok ötleteket, javaslatokat vagy pull requesteket!
+
+## Készítette:
+Laczkó Kevin
