@@ -32,6 +32,12 @@ A **RecipeKeeper** egy egyszerű, modern receptkezelő alkalmazás Flutterben, a
     ```bash
     flutter run
     ```
+5. Dartpad.dev használata (Online felület):
+    ```bash
+    https://dartpad.dev megnyitása,
+    lib/main.dart tartalmának bemásolása,
+    Alkalmazás futtatása
+    ```
 
 ## 🔧 Tervek a jövőben
 
