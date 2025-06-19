@@ -19,10 +19,6 @@ A **RecipeKeeper** egy egyszerű, modern receptkezelő alkalmazás Flutterben, a
 - **Provider / Riverpod / Bloc** (állapotkezelés – implementációtól függően)
 - **Image Picker** (képek hozzáadása a galériából vagy kamerából)
 
-## 📱 Képernyőképek *(hamarosan)*
-
-<!-- Itt elhelyezhetsz screenshotokat vagy gifeket, ha kész vannak -->
-
 ## 🚀 Projekt futtatása
 
 1. Flutter környezet telepítése: [flutter.dev](https://flutter.dev/docs/get-started/install)
