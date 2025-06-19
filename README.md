@@ -13,11 +13,8 @@ A **RecipeKeeper** egy egyszerű, modern receptkezelő alkalmazás Flutterben, a
 
 ## 🛠️ Technológiák
 
-- **Flutter** (UI és logika)
-- **Dart** (programozási nyelv)
-- **Hive vagy SQLite** (helyi adatbázis-kezelés)
-- **Provider / Riverpod / Bloc** (állapotkezelés – implementációtól függően)
-- **Image Picker** (képek hozzáadása a galériából vagy kamerából)
+- **Flutter**
+- **Dart**
 
 ## 🚀 Projekt futtatása
 
